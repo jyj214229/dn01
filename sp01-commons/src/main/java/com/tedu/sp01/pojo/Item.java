@@ -11,6 +11,8 @@ public class Item {
 	public Integer getId() {
 		return id;
 	}
+	
+	//ÄãºÃÊÀ½ç
 	public void setId(Integer id) {
 		this.id = id;
 	}

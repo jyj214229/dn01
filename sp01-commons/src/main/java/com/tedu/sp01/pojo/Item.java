@@ -13,6 +13,7 @@ public class Item {
 	}
 	
 	//ÄãºÃÊÀ½ç
+	//hhhh
 	public void setId(Integer id) {
 		this.id = id;
 	}
